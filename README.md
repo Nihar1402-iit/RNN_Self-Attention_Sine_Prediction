@@ -8,6 +8,6 @@ Back Propogation
 
 ## Self-Attention
 ![image](https://github.com/user-attachments/assets/a1f474d2-24dd-4079-8e7a-e5764264fa53)
-
+PC: Sebastian Raschka
 ![image](https://github.com/user-attachments/assets/41207775-79b1-4039-b405-1a6d622fd90e)
 
